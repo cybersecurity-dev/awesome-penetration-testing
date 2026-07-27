@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** [Penetration](https://wikipedia.org/wiki/Penetration_test) Testing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Penetration](https://wikipedia.org/wiki/Penetration_test) [Testing](https://github.com/cybersecurity-dev/awesome-penetration-testing-resources) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kali.org/)
