@@ -24,6 +24,13 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+## Pentest Tools
+
+### AI-powered Pentest Assistant Tool
+- [PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
+- [Pentest Copilot](https://github.com/bugbasesecurity/pentest-copilot) - [Pentest Copilot](https://pentest.bugbase.ai/) is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
+
+
 ##
 
 ### My Other Awesome Lists
