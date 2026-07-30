@@ -27,6 +27,7 @@
 ## Pentest Tools
 
 ### AI-powered Pentest Assistant Tool
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [Pentest Copilot](https://github.com/bugbasesecurity/pentest-copilot) - [Pentest Copilot](https://pentest.bugbase.ai/) is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
 
