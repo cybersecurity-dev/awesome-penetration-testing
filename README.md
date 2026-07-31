@@ -27,9 +27,12 @@
 ## Pentest Tools
 
 ### AI-powered Pentest Assistant Tool
+- [METATRON](https://github.com/sooryathejas/METATRON) - AI-powered penetration testing assistant using local LLM on linux (_Parrot OS_)
 - [PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [Pentest Copilot](https://github.com/bugbasesecurity/pentest-copilot) - [Pentest Copilot](https://pentest.bugbase.ai/) is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
 - [Strix](https://github.com/usestrix/strix) - Open-source [AI penetration testing tool](https://www.strix.ai/) to find and fix your app’s vulnerabilities.
+
+
 
 
 ##
